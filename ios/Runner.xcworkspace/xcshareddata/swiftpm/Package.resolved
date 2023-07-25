@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sharpsellcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/enparadigm/SharpsellCore.git",
+      "state" : {
+        "revision" : "3cabb83075123f179e23e1146a99a54b939886a5",
+        "version" : "2.10.0"
+      }
+    }
+  ],
+  "version" : 2
+}
