@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:typed_data';
 import 'dart:ui' as ui;
 import 'package:http/http.dart' as http;
-import 'package:theme_architecture/core_utils/LRU_caching.dart';
+import 'package:theme_app_framework/core_utils/LRU_caching.dart';
 
 class Image {
    Uint8List? imageData;

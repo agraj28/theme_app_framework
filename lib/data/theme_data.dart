@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:theme_architecture/core_utils/app_constants.dart';
-import 'package:theme_architecture/data/base_theme.dart';
-import 'package:theme_architecture/data/theme_colors.dart';
+import 'package:theme_app_framework/core_utils/app_constants.dart';
+import 'package:theme_app_framework/data/base_theme.dart';
+import 'package:theme_app_framework/data/theme_colors.dart';
 
 class ThemeDataColors extends BaseTheme {
   static final ThemeDataColors _instance = ThemeDataColors._();

@@ -1,4 +1,4 @@
-import 'package:theme_architecture/domain/entities/custom_theme_enum.dart';
+import 'package:theme_app_framework/domain/entities/custom_theme_enum.dart';
 
 /// common theme state
 abstract class ThemeState {}

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:theme_architecture/core_utils/screen_util.dart';
-import 'package:theme_architecture/presentation/common_widgets/common_tab_bar/entity/common_tab_bar_model.dart';
-import 'package:theme_architecture/presentation/widgets/super_stateless_widget.dart';
+import 'package:theme_app_framework/core_utils/screen_util.dart';
+import 'package:theme_app_framework/presentation/common_widgets/common_tab_bar/entity/common_tab_bar_model.dart';
+import 'package:theme_app_framework/presentation/widgets/super_stateless_widget.dart';
 
 import 'tab_bar_item.dart';
 

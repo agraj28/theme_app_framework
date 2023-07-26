@@ -1,12 +1,12 @@
 import 'dart:async';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:theme_architecture/core_utils/app_constants.dart';
-import 'package:theme_architecture/domain/entities/custom_theme_enum.dart';
-import 'package:theme_architecture/domain/usecases/get_theme_usecase.dart';
-import 'package:theme_architecture/domain/usecases/set_theme_usecase.dart';
-import 'package:theme_architecture/presentation/bloc/theme/event/theme_event.dart';
-import 'package:theme_architecture/presentation/bloc/theme/state/theme_state.dart';
+import 'package:theme_app_framework/core_utils/app_constants.dart';
+import 'package:theme_app_framework/domain/entities/custom_theme_enum.dart';
+import 'package:theme_app_framework/domain/usecases/get_theme_usecase.dart';
+import 'package:theme_app_framework/domain/usecases/set_theme_usecase.dart';
+import 'package:theme_app_framework/presentation/bloc/theme/event/theme_event.dart';
+import 'package:theme_app_framework/presentation/bloc/theme/state/theme_state.dart';
 
 /// theme bloc
 class ThemeBloc extends Bloc<ThemeEvent, ThemeState> {

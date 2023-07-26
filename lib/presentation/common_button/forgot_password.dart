@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:theme_architecture/presentation/widgets/super_statefull_widget.dart';
+import 'package:theme_app_framework/presentation/widgets/super_statefull_widget.dart';
 
 class ForgotPassword extends SuperStatefulWidget {
   ForgotPassword({Key? key}) : super(key: key);

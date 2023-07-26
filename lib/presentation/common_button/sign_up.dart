@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:theme_architecture/core_utils/screen_util.dart';
-import 'package:theme_architecture/presentation/widgets/super_statefull_widget.dart';
+import 'package:theme_app_framework/core_utils/screen_util.dart';
+import 'package:theme_app_framework/presentation/widgets/super_statefull_widget.dart';
 
 class Signup extends SuperStatefulWidget {
    Signup({Key? key}) : super(key: key);

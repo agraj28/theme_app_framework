@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:theme_architecture/core_utils/screen_util.dart';
+import 'package:theme_app_framework/core_utils/screen_util.dart';
 
 /// Super state less widget
 class SuperStatelessWidget extends StatelessWidget {

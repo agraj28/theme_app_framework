@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:theme_architecture/data/repositories/theme_repository.dart';
-import 'package:theme_architecture/data/theme_data.dart';
-import 'package:theme_architecture/domain/entities/custom_theme_enum.dart';
-import 'package:theme_architecture/domain/usecases/get_theme_usecase.dart';
-import 'package:theme_architecture/domain/usecases/set_theme_usecase.dart';
-import 'package:theme_architecture/presentation/bloc/theme/provider/theme_bloc.dart';
-import 'package:theme_architecture/presentation/bloc/theme/state/theme_state.dart';
-import 'package:theme_architecture/presentation/common_button/my_app.dart';
+import 'package:theme_app_framework/data/repositories/theme_repository.dart';
+import 'package:theme_app_framework/data/theme_data.dart';
+import 'package:theme_app_framework/domain/entities/custom_theme_enum.dart';
+import 'package:theme_app_framework/domain/usecases/get_theme_usecase.dart';
+import 'package:theme_app_framework/domain/usecases/set_theme_usecase.dart';
+import 'package:theme_app_framework/presentation/bloc/theme/provider/theme_bloc.dart';
+import 'package:theme_app_framework/presentation/bloc/theme/state/theme_state.dart';
+import 'package:theme_app_framework/presentation/common_button/my_app.dart';
 
 /// base widget, which will be the base widget for the application
 class BaseApp extends StatelessWidget {

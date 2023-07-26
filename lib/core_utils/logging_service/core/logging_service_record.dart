@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:theme_architecture/core_utils/logging_service/core/logging_levels.dart';
+import 'package:theme_app_framework/core_utils/logging_service/core/logging_levels.dart';
 
 /// A log entry representation used to propagate information from [Logger] to
 /// individual handlers.

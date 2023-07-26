@@ -1,4 +1,4 @@
-import 'package:theme_architecture/base_app_setup.dart';
+import 'package:theme_app_framework/base_app_setup.dart';
 
 void main() {
   baseAppSetup();

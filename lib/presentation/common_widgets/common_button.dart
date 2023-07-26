@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:theme_architecture/presentation/widgets/super_stateless_widget.dart';
+import 'package:theme_app_framework/presentation/widgets/super_stateless_widget.dart';
 
 /// CommonButton
 class CommonButton extends SuperStatelessWidget {
